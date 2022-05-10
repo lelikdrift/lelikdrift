@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lelikdrift
 - 👀 I’m interested in ...program cod,currentlylearning razrabotchic
 - 🌱 I’m currently learning ...python,jawa,
-- 💞️ I’m looking to collaborate on ...currently learning python ......
+- 💞️ I’m looking to collaborate on ...help program python ......
 - 📫 How to reach me ...lelikdrift@yandex.by
 
 <!---
